@@ -1,0 +1,48 @@
+#EXTM3U #EXTINF:-1 tvg-id="" tvg-name="Deepto TV"
+tvg-logo="https://static.wixstatic.com/media/efc593_ddd112c4347a498ba57c019ab8a8f328~mv
+2.jpg" group-title="Bangla",Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="channel i"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i
+.svg.png" group-title="Bangla",channel i
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8 #EXTINF:-1 tvg-id=""
+tvg-name="Nagorik"
+tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E
+0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%
+AD%E0%A6%BF.svg/1200px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A
+6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png"
+group-title="Bangla",Nagorik
+http://95.111.250.189:25461/live/traillllllllllll/yAuDXqFMmW/6489.m3u8 #EXTINF:-1 tvg-id=""
+tvg-name="Maasranga TV"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg"
+group-title="Bangla",Maasranga TV
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8 #EXTINF:-1 tvg-id=""
+tvg-name="GTV" tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png"
+group-title="Bangla",GTV http://103.135.208.14/live/ibox/bd/5.m3u8 #EXTINF:-1 tvg-id=""
+tvg-name="News 24" tvg-logo="https://tv.bdtype.com/uploads/tv_image/news24-tv.jpg"
+group-title="Bangla",News 24 https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png"
+group-title="Bangla",Ekattor TV http://103.135.208.14/live/ibox/bd/88.m3u8 #EXTINF:-1
+tvg-id="" tvg-name="ATN News"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-
+ATN_News_Logo_3.GIF" group-title="Bangla",ATN News
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8 #EXTINF:-1 tvg-id=""
+tvg-name="Star jalsha HD"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg"
+group-title="Bangla",Star jalsha HD
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8 #EXTINF:-1 tvg-id=""
+tvg-name="Zee Bangla" tvg-logo="" group-title="Bangla",Zee Bangla
+http://103.205.133.14/hls/zeebangla.m3u8 #EXTINF:-1 tvg-id="" tvg-name="SONY Aath"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/800
+px-Sony_Aath_logo.svg.png" group-title="Bangla",SONY Aath
+http://103.205.133.19/hls/sony8.m3u8 #EXTINF:-1 tvg-id="" tvg-name="Channel 24"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200
+px-Channel24logo.svg.png" group-title="Bangla",Channel 24
+http://175.41.46.16:8081/hls/11.m3u8 #EXTINF:-1 tvg-id="" tvg-name="RTV"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rt
+v_bangladesh.PNG" group-title="Bangla",RTV
+https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8 #EXTINF:-1 tvg-id="" tvg-name="Asian
+TV"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asia
+n_TV_Logo.svg.png" group-title="Bangla",Asian TV
